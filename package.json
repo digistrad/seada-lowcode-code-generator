@@ -1,7 +1,7 @@
 {
-  "name": "@seada/lowcode-code-generator",
+  "name": "@dslc/lowcode-code-generator",
   "version": "1.0.4",
-  "description": "出码引擎 for LowCode Engine",
+  "description": "Code generator for LowCode Engine",
   "license": "MIT",
   "main": "lib/index.js",
   "module": "es/index.js",
